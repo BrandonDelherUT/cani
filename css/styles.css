@@ -1,0 +1,42 @@
+.border-danger-img{
+    background-color: rgb(255, 134, 134) !important;
+}
+
+.text-pink{
+    color: rgb(252, 149, 166);
+}
+
+.text-brown{
+    color: rgb(122, 90, 47);
+}
+
+.icon-twitter{
+    color: rgb(0, 172, 237);
+}
+
+.icon-instagram{
+    color: rgb(255, 0, 0);
+}
+    
+    /*header{
+        
+        ://feathericons.com/
+
+    background-color: aquamarine !important;
+    color: black !important;
+    width: 100% !important;
+    padding: 5px !important;
+}
+
+.header{
+    background-color: rgb(26, 94, 94);
+    width: 100%;
+    padding: 5px;
+}
+
+#header{
+    background-color: blueviolet !important;
+    color:rgb(255, 255, 255) !important;
+    width: 100% !important;
+    padding: 5px !important;
+}*/
